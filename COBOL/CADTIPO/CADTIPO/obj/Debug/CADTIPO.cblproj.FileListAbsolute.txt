@@ -3,3 +3,8 @@ E:\COBOLZAO\COBOL\CADTIPO\CADTIPO\bin\Debug\CADTIPO.pdb
 E:\COBOLZAO\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.cblprojResolveAssemblyReference.cache
 E:\COBOLZAO\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.exe
 E:\COBOLZAO\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.pdb
+C:\Users\callm\Desktop\Cobol-work\Cobozao\COBOL\CADTIPO\CADTIPO\bin\Debug\CADTIPO.exe
+C:\Users\callm\Desktop\Cobol-work\Cobozao\COBOL\CADTIPO\CADTIPO\bin\Debug\CADTIPO.pdb
+C:\Users\callm\Desktop\Cobol-work\Cobozao\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.cblprojResolveAssemblyReference.cache
+C:\Users\callm\Desktop\Cobol-work\Cobozao\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.exe
+C:\Users\callm\Desktop\Cobol-work\Cobozao\COBOL\CADTIPO\CADTIPO\obj\Debug\CADTIPO.pdb

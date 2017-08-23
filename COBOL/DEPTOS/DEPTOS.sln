@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "DEPTOS", "DEPTOS\DEPTOS.cblproj", "{69DC8517-41C3-4E7E-9A32-0CA91C80454F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
