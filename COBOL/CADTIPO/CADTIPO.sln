@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "CADTIPO", "CADTIPO\CADTIPO.cblproj", "{AEA45AFA-57CF-45EA-9999-919D446EF3E3}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "DEPTOS", "..\DEPTOS\DEPTOS\DEPTOS.cblproj", "{69DC8517-41C3-4E7E-9A32-0CA91C80454F}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "BEMS", "..\BEMS\BEMS\BEMS.cblproj", "{0448B987-8947-45C8-8523-D80A765C27E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AEA45AFA-57CF-45EA-9999-919D446EF3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEA45AFA-57CF-45EA-9999-919D446EF3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEA45AFA-57CF-45EA-9999-919D446EF3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DC8517-41C3-4E7E-9A32-0CA91C80454F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0448B987-8947-45C8-8523-D80A765C27E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0448B987-8947-45C8-8523-D80A765C27E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0448B987-8947-45C8-8523-D80A765C27E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0448B987-8947-45C8-8523-D80A765C27E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
